@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Holiday-photo-app/static/css/main.241951ba.css",
+    "main.js": "/Holiday-photo-app/static/js/main.ca147865.js",
+    "index.html": "/Holiday-photo-app/index.html",
+    "main.241951ba.css.map": "/Holiday-photo-app/static/css/main.241951ba.css.map",
+    "main.ca147865.js.map": "/Holiday-photo-app/static/js/main.ca147865.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241951ba.css",
+    "static/js/main.ca147865.js"
+  ]
+}
